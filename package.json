@@ -1,0 +1,14 @@
+{
+  "name": "meetbyagent",
+  "version": "0.1.0",
+  "description": "Your agent schedules for you — Agent Scheduling on ASP",
+  "type": "module",
+  "bin": "./dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "asp-protocol": "^0.1.0"
+  },
+  "license": "MIT"
+}
